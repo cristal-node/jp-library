@@ -1,0 +1,2 @@
+**/*.zip  binary -delta -diff
+**/*.epub binary -delta -diff
